@@ -32,8 +32,8 @@
 // Console.WriteLine(Hello.ToUpper());
 // Console.WriteLine(Hello.ToLower());
 
-int a = 7;
-int b = 4;
+int a = 3;
+int b = 1;
 int c = 3;
 int d = (a + b) / c;
 int e = (a + b) % c;
